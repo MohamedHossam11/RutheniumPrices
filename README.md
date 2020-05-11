@@ -12,5 +12,5 @@ run in the terminal inside the project folder ---> 'jupyter notebook ./' and go 
 # The model training code on google colab:
 https://colab.research.google.com/drive/1o-LZ7Rowr8_2KCgvq9nZG54f7diu2ShB?usp=sharing
 
-# The prediction code on google colab:
+# The prediction code on google colab (to avoid installing the dependencies):
 https://colab.research.google.com/drive/1P58YZMJPkYDCyLamRq-Dv2nzyM0tkkyi?usp=sharing
