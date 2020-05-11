@@ -2,6 +2,13 @@
 # To install dependencies:
 
 run in the terminal inside the project folder ---> 'pip3 install -r requirements.txt'
+This project should be run by jupyter so it's among the dependencies
+Full dependencies list:
+-tensorflow
+-requests
+-datetime
+-notebook
+-jupyter
 
 # Open jupyter editor to run the code
 run in the terminal inside the project folder ---> 'jupyter notebook ./' and go to the PredictPrice.ipynb file
