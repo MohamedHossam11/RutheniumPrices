@@ -1,8 +1,8 @@
 # RutheniumPrices
 # To install dependencies:
 
-run in the terminal inside the project folder ---> 'pip3 install -r requirements.txt'
-This project should be run by jupyter so it's among the dependencies
+run in the terminal inside the project folder ---> 'pip3 install -r requirements.txt' \n
+This project should be run by jupyter so it's among the dependencies \n
 Full dependencies list:
 tensorflow ,requests ,datetime ,notebook ,jupyter
 
